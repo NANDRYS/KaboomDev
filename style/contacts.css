@@ -1,0 +1,20 @@
+
+.contacts-card {
+     display: block;
+     border: 2px solid transparent;
+     background-color: aliceblue;
+     border-radius: 1.95rem;
+     padding: 10px;
+     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3);
+     transition: .2s ease;
+}
+
+.contacts-card:hover {
+
+     box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+.contacts-header {
+     padding-bottom: 5px;
+     border-bottom: 1px solid #66d1fc;
+}

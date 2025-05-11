@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TT Commons ';
+    src: local('TT Commons  Extra Light Italic'), local('TT-Commons--Extra-Light-Italic'),
+        url('TTCommons-ExtraLightItalic.woff2') format('woff2'),
+        url('TTCommons-ExtraLightItalic.woff') format('woff'),
+        url('TTCommons-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+  }
